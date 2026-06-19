@@ -21,7 +21,7 @@ body {
     justify-content: center;
     text-align: center;
     color: #868DB1;
-    margin: 50px 300px 0px 300px
+    margin: 50px 400px 0px 400px
 }
 
 .thing2 {
@@ -38,6 +38,6 @@ body {
     display: block;
     color: #868DB1;
     font-weight: bold;
-    font-size: larger;
+    font-size: 36rem;
     text-decoration: none;
 }
