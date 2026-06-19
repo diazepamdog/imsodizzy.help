@@ -1,0 +1,43 @@
+* {box-sizing: border-box;}
+html {
+    position: relative;
+}
+
+body {
+    background-image: url("stars.webp");
+    background-size: 20%;
+    overflow-y: scroll;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    font-family: cambria;
+    }
+
+.thing1 {
+    background-color: #202645;
+    border: solid 2px #868DB1;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: #868DB1;
+    margin: 50px 300px 0px 300px
+}
+
+.thing2 {
+    background-color: #202645;
+    border: solid 2px #868DB1;
+    display: block;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+    margin: 50px 300px 100px 300px
+}
+
+.thing2 a {
+    display: block;
+    color: #868DB1;
+    font-weight: bold;
+    font-size: large;
+    text-decoration: none;
+}
